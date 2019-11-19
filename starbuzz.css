@@ -8,17 +8,15 @@ body {
 #header {
   background-color: #675c47;
   margin: 10px;
-  height: 108px;
-  margin: 10px 10px 0px 10px;
+
 }
 
 #main {
   background: #efe5d0 url(images/background.gif) top left;
   font-size: 105%;
   padding: 15px;
-  vertical-align: top;
   display: table-cell;
-
+  vertical-align: top;
 }
 
 #sidebar {
@@ -26,11 +24,8 @@ body {
   font-size: 105%;
   padding: 15px;
   width: 280px;
-  float: right;
-  clear:left;
   display: table-cell;
   vertical-align: top;
-  margin-top: ;
 }
 
 #footer {
@@ -73,12 +68,11 @@ a:visited {
   display: table;
   border-spacing: 10px;
 }
-.rablerow {
-  /* display: table-row; */
-}
+.tablerow {
+  display: table-row;
+} 
 .drink {
 background-color:#efe5d0 ;
-widows: 20%;
 padding:15px;
 vertical-align: top;
 float: left;
