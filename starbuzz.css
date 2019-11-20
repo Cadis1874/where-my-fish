@@ -10,6 +10,10 @@ body {
   margin: 10px;
 
 }
+.header2 { 
+float: right;
+
+}
 
 #main {
   background: #efe5d0 url(images/background.gif) top left;
@@ -76,4 +80,9 @@ background-color:#efe5d0 ;
 padding:15px;
 vertical-align: top;
 float: left;
+}
+.award {
+  position: absolute;
+  top: 30px;
+  left:705px;
 }
